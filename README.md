@@ -1,1 +1,1 @@
-I have created predictive models for breast cancer,diabetes, and a project on character to audio synthesis applying knowledge acquired through online courses in various fields.
+I have created predictive models for breast cancer,diabetes, and a project on character to audio synthesis applying knowledge acquired through online courses in various fields. I have also done a Arduino project using ATMEGA8 Microcontroller for 7 segment display
